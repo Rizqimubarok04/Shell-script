@@ -1,0 +1,12 @@
+Welcome to Cloud Shell! Type "help' to get started.
+To set your Cloud Platform project in this session use "gcloud config set project [PROJECT_ID]"
+suluh78910@cloudshell:"$ nano latihan2.sh suluh78910@cloudshell:"$ cat latihan2.sh
+#!/bin/bash
+Nama "Rizqi Mubarok"
+Nim=2402071
+
+saya_login_sebagai.siapa 'Rizqi
+echo "Rizqi Mubarok:
+echo 2402071:"
+echo "Rizqi:"
+suluh78910@cloudshell:"$
